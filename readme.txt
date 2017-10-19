@@ -31,3 +31,5 @@ My stupid boss still prefers SVN.
 this is a distributed to be pushed to github
 
 checkout from the remote
+
+check out from the remote
